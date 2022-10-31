@@ -1,0 +1,154 @@
+[
+    {
+        "category": "HEALTH",
+        "purposes": [
+            "ANALYTICS",
+            "APP_FUNCTIONALITY",
+            "OTHER_PURPOSES",
+            "THIRD_PARTY_ADVERTISING",
+            "DEVELOPERS_ADVERTISING",
+            "PRODUCT_PERSONALIZATION"
+        ],
+        "data_protections": [
+            "DATA_LINKED_TO_YOU"
+        ]
+    },
+    {
+        "category": "FITNESS",
+        "purposes": [
+            "THIRD_PARTY_ADVERTISING",
+            "DEVELOPERS_ADVERTISING",
+            "ANALYTICS",
+            "PRODUCT_PERSONALIZATION",
+            "APP_FUNCTIONALITY",
+            "OTHER_PURPOSES"
+        ],
+        "data_protections": [
+            "DATA_LINKED_TO_YOU",
+            "DATA_USED_TO_TRACK_YOU"
+        ]
+    },
+    {
+        "category": "PRECISE_LOCATION",
+        "purposes": [
+            "THIRD_PARTY_ADVERTISING",
+            "DEVELOPERS_ADVERTISING",
+            "ANALYTICS",
+            "PRODUCT_PERSONALIZATION",
+            "APP_FUNCTIONALITY",
+            "OTHER_PURPOSES"
+        ],
+        "data_protections": [
+            "DATA_NOT_LINKED_TO_YOU"
+        ]
+    },
+    {
+        "category": "COARSE_LOCATION",
+        "purposes": [
+            "THIRD_PARTY_ADVERTISING",
+            "DEVELOPERS_ADVERTISING",
+            "ANALYTICS",
+            "PRODUCT_PERSONALIZATION",
+            "APP_FUNCTIONALITY",
+            "OTHER_PURPOSES"
+        ],
+        "data_protections": [
+            "DATA_LINKED_TO_YOU"
+        ]
+    },
+    {
+        "category": "SENSITIVE_INFO",
+        "purposes": [
+            "PRODUCT_PERSONALIZATION"
+        ],
+        "data_protections": [
+            "DATA_LINKED_TO_YOU",
+            "DATA_USED_TO_TRACK_YOU"
+        ]
+    },
+    {
+        "category": "CONTACTS",
+        "purposes": [
+            "THIRD_PARTY_ADVERTISING",
+            "DEVELOPERS_ADVERTISING",
+            "ANALYTICS",
+            "PRODUCT_PERSONALIZATION",
+            "APP_FUNCTIONALITY",
+            "OTHER_PURPOSES"
+        ],
+        "data_protections": [
+            "DATA_LINKED_TO_YOU"
+        ]
+    },
+    {
+        "category": "BROWSING_HISTORY",
+        "purposes": [
+            "THIRD_PARTY_ADVERTISING",
+            "DEVELOPERS_ADVERTISING",
+            "ANALYTICS",
+            "PRODUCT_PERSONALIZATION",
+            "APP_FUNCTIONALITY",
+            "OTHER_PURPOSES"
+        ],
+        "data_protections": [
+            "DATA_LINKED_TO_YOU",
+            "DATA_USED_TO_TRACK_YOU"
+        ]
+    },
+    {
+        "category": "USER_ID",
+        "purposes": [
+            "DEVELOPERS_ADVERTISING"
+        ],
+        "data_protections": [
+            "DATA_NOT_LINKED_TO_YOU"
+        ]
+    },
+    {
+        "category": "DEVICE_ID",
+        "purposes": [
+            "APP_FUNCTIONALITY"
+        ],
+        "data_protections": [
+            "DATA_NOT_LINKED_TO_YOU"
+        ]
+    },
+    {
+        "category": "PRODUCT_INTERACTION",
+        "purposes": [
+            "DEVELOPERS_ADVERTISING"
+        ],
+        "data_protections": [
+            "DATA_NOT_LINKED_TO_YOU"
+        ]
+    },
+    {
+        "category": "ADVERTISING_DATA",
+        "purposes": [
+            "DEVELOPERS_ADVERTISING",
+            "THIRD_PARTY_ADVERTISING"
+        ],
+        "data_protections": [
+            "DATA_NOT_LINKED_TO_YOU"
+        ]
+    },
+    {
+        "category": "OTHER_USAGE_DATA",
+        "purposes": [
+            "ANALYTICS"
+        ],
+        "data_protections": [
+            "DATA_LINKED_TO_YOU",
+            "DATA_USED_TO_TRACK_YOU"
+        ]
+    },
+    {
+        "category": "OTHER_DATA",
+        "purposes": [
+            "APP_FUNCTIONALITY"
+        ],
+        "data_protections": [
+            "DATA_LINKED_TO_YOU"
+        ]
+    }
+]
